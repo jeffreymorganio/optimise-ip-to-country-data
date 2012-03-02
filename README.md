@@ -49,4 +49,4 @@ Example:
 More Information
 ----------------
 
-For a complete description of this optimisation techniques, please read [Optimising IP Geolocation Data](http://usabilityetc.com/articles/optimising-geolocation-data/).
+For a complete description of this optimisation technique, please read [Optimising IP Geolocation Data](http://usabilityetc.com/articles/optimising-geolocation-data/).
