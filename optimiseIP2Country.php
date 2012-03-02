@@ -118,9 +118,9 @@ function readLineOfData($inputFileHandle)
  * Output the start IP address, the end IP address,
  * and the two-letter country code as a line of CSV.
  */
-function writeLineOfData($endIPAddress, $startIPAddress, $countryCode)
+function writeLineOfData($startIPAddress, $endIPAddress, $countryCode)
 {
-	print implode(',', array($endIPAddress, $startIPAddress, $countryCode)) . "\r\n";
+	print implode(',', array($startIPAddress, $endIPAddress, $countryCode)) . "\r\n";
 }
 
 /*
